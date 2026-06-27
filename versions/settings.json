@@ -1,8 +1,0 @@
-{
-  "theme": "Default",
-  "animations": true,
-  "auto_clear_console": true,
-  "scan_hidden_files": false,
-  "show_file_sizes": true,
-  "confirm_before_exit": true
-}
